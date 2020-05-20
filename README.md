@@ -1,3 +1,3 @@
-### Deno and Oak basic Rest API
+# Deno and Oak basic Rest API
 
-# Basic Implementation of simple Rest API using new JavaScript runtime Deno with Oak 
+### Basic Implementation of simple Rest API using new JavaScript runtime Deno with Oak 
